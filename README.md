@@ -7,7 +7,7 @@ logic :-
 * input a is for moving in the reverse direction.
   both the wheels rotate in the reverse dirction
 * input s is for right rotation.
-  left wheel moves in the forward direction and the right in backward direction
+  left wheel moves in the forward direction and the right in backward direction.
   after the desired rotation, we can give w or a command to move it in that direction.
 * input d is for left rotation.
   left wheel moves in the backward direction and the right in forward direction.
