@@ -21,4 +21,4 @@ logic:-
   after the desired rotation, we can give w or a command to move it in that particular direction.
   
 debugging :-
-* one of the dc motors was not working even though the code and the connections were correct, I think it might be beause of some problems with the DC motor or due to the loose jumper wire connections. Hence, I was not able to check the left and right movement with the hardware.
+* one of the dc motors was not working even though the code and the connections were correct, I think it might be beause of some problems with the DC motor or due to the problems in the driver. Hence, I was not able to check the left and right movement with the hardware.
